@@ -1,1 +1,1 @@
-# Edubridge
+# Restaurant Management System
